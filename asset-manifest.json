@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/create-react-app/app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/create-react-app/app/static/js/main.3b8251d5.chunk.js",
-    "main.js.map": "/create-react-app/app/static/js/main.3b8251d5.chunk.js.map",
-    "runtime-main.js": "/create-react-app/app/static/js/runtime-main.449db7f1.js",
-    "runtime-main.js.map": "/create-react-app/app/static/js/runtime-main.449db7f1.js.map",
-    "static/js/2.77e0805b.chunk.js": "/create-react-app/app/static/js/2.77e0805b.chunk.js",
-    "static/js/2.77e0805b.chunk.js.map": "/create-react-app/app/static/js/2.77e0805b.chunk.js.map",
-    "index.html": "/create-react-app/app/index.html",
-    "precache-manifest.93269bccfcbc04c5a73f3f52649aadc4.js": "/create-react-app/app/precache-manifest.93269bccfcbc04c5a73f3f52649aadc4.js",
-    "service-worker.js": "/create-react-app/app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/create-react-app/app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.77e0805b.chunk.js.LICENSE.txt": "/create-react-app/app/static/js/2.77e0805b.chunk.js.LICENSE.txt"
+    "main.css": "/create-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/create-react-app/static/js/main.c09472c6.chunk.js",
+    "main.js.map": "/create-react-app/static/js/main.c09472c6.chunk.js.map",
+    "runtime-main.js": "/create-react-app/static/js/runtime-main.0e5a9893.js",
+    "runtime-main.js.map": "/create-react-app/static/js/runtime-main.0e5a9893.js.map",
+    "static/js/2.77e0805b.chunk.js": "/create-react-app/static/js/2.77e0805b.chunk.js",
+    "static/js/2.77e0805b.chunk.js.map": "/create-react-app/static/js/2.77e0805b.chunk.js.map",
+    "index.html": "/create-react-app/index.html",
+    "precache-manifest.bc8de429e62d191df6944d5b73a641a1.js": "/create-react-app/precache-manifest.bc8de429e62d191df6944d5b73a641a1.js",
+    "service-worker.js": "/create-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/create-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.77e0805b.chunk.js.LICENSE.txt": "/create-react-app/static/js/2.77e0805b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.449db7f1.js",
+    "static/js/runtime-main.0e5a9893.js",
     "static/js/2.77e0805b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3b8251d5.chunk.js"
+    "static/js/main.c09472c6.chunk.js"
   ]
 }
